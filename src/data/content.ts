@@ -58,12 +58,11 @@ export interface Project {
 
 export const projects: Project[] = [
   {
-    title: 'Project One',
+    title: 'The Serlings',
     description:
-      'A brief description of what this project does and the problem it solves. Replace with your actual project.',
-    tags: ['React', 'TypeScript', 'Node.js'],
-    github: '#',
-    live: '#',
+      'Band website for The Serlings — designed, built, and shipped from scratch. A live site for sharing music, shows, and everything the band is up to.',
+    tags: ['Web Design', 'HTML/CSS', 'JavaScript'],
+    live: 'https://www.theserlings.com',
   },
   {
     title: 'Project Two',
